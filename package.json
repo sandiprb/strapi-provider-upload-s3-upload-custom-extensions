@@ -1,0 +1,29 @@
+{
+  "name": "strapi-provider-upload-s3-upload-custom-extensions",
+  "version": "1.0.0",
+  "description": "(Non-official) S3 upload Provider for Strapi Upload with custom extensions ",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandiprb/strapi-provider-upload-s3-upload-custom-extensions.git"
+  },
+  "keywords": [
+    "strapi",
+    "upload",
+    "storage",
+    "s3",
+    "aws"
+  ],
+  "author": "baradiya.sandip@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandiprb/strapi-provider-upload-s3-upload-custom-extensions/issues"
+  },
+  "homepage": "https://github.com/sandiprb/strapi-provider-upload-s3-upload-custom-extensions#readme",
+  "dependencies": {
+    "aws-sdk": "^2.853.0"
+  }
+}
